@@ -2,6 +2,8 @@ This is Guice 4 and Struts 2 integration sample application.
 
 How to run the demo:
 
+----------------
+
 1) Clone this project to your local drive
 
 2) Install Maven 3 and make it runnable
